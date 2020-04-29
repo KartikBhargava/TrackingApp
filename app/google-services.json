@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "192387034394",
+    "firebase_url": "https://livetrackingapplication-52df7.firebaseio.com",
+    "project_id": "livetrackingapplication-52df7",
+    "storage_bucket": "livetrackingapplication-52df7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192387034394:android:94435a028ff43675bf10a3",
+        "android_client_info": {
+          "package_name": "com.example.livetrackingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192387034394-5c23dsan2nd3rn7th98h6fv9o3mbtr3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livetrackingapplication",
+            "certificate_hash": "dbe41e90cefbb32812877c56f0f58b800db01469"
+          }
+        },
+        {
+          "client_id": "192387034394-gha1gdr84bn3r75v7rrra8dqufed21tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYfhdW9IYxX77WBnW6LkLpD28Hemq_dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192387034394-gha1gdr84bn3r75v7rrra8dqufed21tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192387034394:android:6247c13c30645a37bf10a3",
+        "android_client_info": {
+          "package_name": "com.example.trackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192387034394-88r443tkbpa1cj1csgqbkbblj8s7hduf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackingapp",
+            "certificate_hash": "dbe41e90cefbb32812877c56f0f58b800db01469"
+          }
+        },
+        {
+          "client_id": "192387034394-gha1gdr84bn3r75v7rrra8dqufed21tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYfhdW9IYxX77WBnW6LkLpD28Hemq_dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192387034394-gha1gdr84bn3r75v7rrra8dqufed21tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192387034394:android:ec3cec03d1b1533ebf10a3",
+        "android_client_info": {
+          "package_name": "com.spartons.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192387034394-1et6sr1hs2l2qhbhvn47rgfhrh4kr3o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spartons.driverapp",
+            "certificate_hash": "dbe41e90cefbb32812877c56f0f58b800db01469"
+          }
+        },
+        {
+          "client_id": "192387034394-gha1gdr84bn3r75v7rrra8dqufed21tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYfhdW9IYxX77WBnW6LkLpD28Hemq_dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192387034394-gha1gdr84bn3r75v7rrra8dqufed21tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
